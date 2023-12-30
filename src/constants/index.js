@@ -19,7 +19,6 @@ import {
   react,
   redux,
   sass,
-  data,
   snapgram,
   summiz,
   tailwindcss,
@@ -189,7 +188,7 @@ export const projects = [
     link: "https://github.com/InfiniteCoder100/CherrySwap",
   },
   {
-    iconUrl: data,
+    iconUrl: car,
     theme: "btn-back-blue",
     name: "DataX",
     description:
