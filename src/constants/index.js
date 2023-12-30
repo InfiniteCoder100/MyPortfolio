@@ -1,4 +1,11 @@
-import { meta, shopify, starbucks, tesla } from "../assets/images";
+import {
+  metacrafters,
+  shopify,
+  starbucks,
+  tesla,
+  otaku,
+  fiverr,
+} from "../assets/images";
 import {
   car,
   contact,
@@ -113,7 +120,7 @@ export const experiences = [
   {
     title: "Blockchain Developer",
     company_name: "Metacrafters",
-    icon: starbucks,
+    icon: metacrafters,
     iconBg: "#accbe1",
     date: "July 2023 - Dec 2023",
     points: [
@@ -126,7 +133,7 @@ export const experiences = [
   {
     title: "React Developer",
     company_name: "Otakukart",
-    icon: tesla,
+    icon: otaku,
     iconBg: "#fbc3bc",
     date: "Jan 2023 - May 2023",
     points: [
@@ -139,7 +146,7 @@ export const experiences = [
   {
     title: "Web Developer",
     company_name: "Fiverr",
-    icon: shopify,
+    icon: fiverr,
     iconBg: "#b7e4c7",
     date: "Jan 2022 - Jan 2023",
     points: [
